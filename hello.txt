@@ -1,6 +1,6 @@
 hello git!!
 hello git!!
-我加了一行文字，红红火火恍恍惚惚
+我加了一行文字，红红火火恍恍惚惚，我在这里制造一个冲突
 第三行存在冲突，我是zhmBranch.
 我是zhmBranch分支，输入的内容。
 我是在GitHub上添加的内容：GitHub is good！！
