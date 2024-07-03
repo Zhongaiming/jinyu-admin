@@ -1,2 +1,4 @@
 hello git!!
 hello git!!
+第三行存在冲突，我是zhmBranch.
+我是zhmBranch分支，输入的内容。
