@@ -1,0 +1,10 @@
+export const ACCESS_TOKEN = 'ACCESS-TOKEN'; // 用户token
+export const CURRENT_USER = 'CURRENT-USER'; // 当前用户信息
+export const IS_SCREENLOCKED = 'IS-SCREENLOCKED'; // 是否锁屏
+export const TABS_ROUTES = 'TABS-ROUTES'; // 标签页
+export const CURRENT_APP = 'CURRENT_APP'; // 当前应用
+export const CURRENT_APPID = 'CURRENT_APPID'; // 当前应用id
+export const CURRENT_APPLIST = 'CURRENT_APPLIST'; // 当前用户应用列表
+export const SHORTCUTS = 'SHORTCUTS'; // 当前用户应用列表
+export const MENUID = 'MENUID'; // 当前菜单id
+export const LOCALE = 'LOCALE'; // 当前语言
